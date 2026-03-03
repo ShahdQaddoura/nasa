@@ -1,0 +1,83 @@
+========================================================================================
+
+             WELCOME TO N.A.S.A.: Dr. Nabil Approved Math Study Aid!
+
+========================================================================================
+
+N.A.S.A.: (Dr.) Nabil, Asmaa, Shahd, Ayk
+
+
+*** PREFACE ***
+
+The Dr. Nabil Approved Math Study Aid aims to train math learners to build confidence in solving algebra and geometry problems. Its flexible settings along with an option to integrate AI make it a very useful tool to aid students in their math studies!
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+NOTE:
+We are proud to say that NO CODE WHATSOEVER was written by AI (ChatGPT or the likes). The 1000+ lines of code this project features were completely handwritten by the hardworking members of (N)ASA.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+###### IMPORTANT ######
+
+The main program is the python script "N.A.S.A. Dr. Nabil Approved Math Study Aid.py". When executed, you will find the option to enable or disable AI integration inside. If you do not train the AI prior to running the main script, you will not be able to use AI for the duration of that math session.
+
+If you wish to have AI integration in the program, you must first train the AI. Running the python script "AI MODELS TRAINER.py" will automatically train the AI models without any human intervention (you just need to wait for the three graphs to pop up, then close). This will also save the AI models in the "Assets" folder.
+
+If you wish to look at the AI models in depth without saving them, you can check "AI Models Notebook.ipynb".
+
+If you follow these steps, the option to enable/disable AI in the math session will become available.
+
+
+
+
+*** REQUIRED LIBRARIES ***
+
+    Built-in:
+	- math
+	- fractions
+	- time
+	- random
+
+    Libraries that require installation:
+	- numpy
+	- matplotlib
+	- pandas
+	- tensorflow
+	- pygame
+
+You can install these libraries using the python package installer (pip) through running the commands in your local or a virtual environment:
+
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install tensorflow
+pip install pygame
+
+(You can use "pip --version" to check if pip is installed, or you can use another package installer such as conda)
+
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+Should you encounter any problem, please do not hesitate to contact one of the team members through their emails:
+
+* Asmaa Zeid: asmaa.zeid@lau.edu
+* Shahd Qaddoura: shahd.qaddoura@lau.edu
+* Ayk Tchelderian: ayk.tchelderian@lau.edu
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+
+Enjoy the project,
+	Happy solving!
+
+~ Asmaa, Shahd, Ayk ~
